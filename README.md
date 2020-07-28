@@ -1,6 +1,5 @@
 # Delta Hacks Hackathon Project - DriveSafe
-![DriveSafe](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/154/793/datas/original.png)
-
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/154/793/datas/original.png" width="130">
 ## Check out our devpost for pics and more info!
 ## Devpost: https://devpost.com/software/drivesafe-ub4joi
 
