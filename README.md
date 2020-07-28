@@ -1,4 +1,7 @@
-# DriveSafe-Pi-Arduino
+# Delta Hacks Hackathon Project - DriveSafe
+
+## Check out our devpost for pics and more info!
+## Devpost: https://devpost.com/software/drivesafe-ub4joi
 
 ## Inspiration
 We were inspired to create the project due to the increased frequency of accidents cause by impaired driving or medical emergencies occurring in the GTA. Below are some statistics from the Canadian Association of Chiefs of Police, which show the importance of mitigating motor vehicle accidents due to reckless driving/Accidents. 
